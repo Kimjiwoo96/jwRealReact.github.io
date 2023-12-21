@@ -2,7 +2,7 @@
   "name": "jw_project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Kimjiwoo96/jwRealReact.github.io",
+  "homepage": "https://kimjiwoo96.github.io/jwRealReact.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
